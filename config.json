@@ -1,0 +1,28 @@
+{
+    "__comment01__": "PROVIDE YOUR BOT API TOKEN FROM https://t.me/BotFather",
+    "bot_api_token": "",
+
+    "__comment02__": "LMS LOGIN PAGE LINK",
+    "login_link": "https://online.mospolytech.ru/login/index.php",
+
+    "__comment03__": "HOW LONG TO WAIT AFTER GOING TO NEXT PAGE",
+    "wait_between_pages": 2.0,
+
+    "__comment04__": "REGEX EXPRESSION TO CHECK LINK",
+    "link_check_regex": "^(http|https):\\/\\/online\\.mospolytech\\.ru\\/mod\\/(scorm|hvp)\\/view\\.php\\?id=",
+
+    "__comment05__": "ENABLE CHROME HEADLESS MODE",
+    "headless": true,
+
+    "__comment06__": "FILE WITH BOT MESSAGES",
+    "messages_file": "messages.json",
+
+    "__comment07__": "MAXIMUM NUMBER OF SYMBOLS INSIDE LOGS THAT ARE SENDING TO USER",
+    "max_log_symbols": 2000,
+
+    "__comment08__": "MAXIMUM LOGS (AND FILES) SEND RATE (IN SECONDS)",
+    "send_messages_interval": 1.5,
+
+    "__comment09__": "IF PROCESS DOESN'T FINISH IN THIS TIME (IN SECONDS) IT WILL BE KILLED",
+    "process_timeout": 200
+}

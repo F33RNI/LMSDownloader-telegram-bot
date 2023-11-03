@@ -1,0 +1,2 @@
+git+https://github.com/F33RNI/LMSDownloader.git
+python-telegram-bot==20.3
