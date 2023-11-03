@@ -20,7 +20,7 @@
 
 ## 📙 Dependencies
 
-- **LMSDownloader**: https://github.com/F33RNI/LMSDownloade
+- **LMSDownloader**: https://github.com/F33RNI/LMSDownloader
 - **python-telegram-bot**: https://github.com/python-telegram-bot/python-telegram-bot
 
 ----------
